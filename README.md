@@ -1,2 +1,1 @@
-# IIT-Assignment01
-Ben Matthews | RMIT Assignment01 for Introduction to Information Technology
+Hello! Welcome to my assignment. Please find gitAssign1/index.html to get started.
